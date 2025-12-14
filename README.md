@@ -1,3 +1,9 @@
+x新版本用不了
+message: Uncaught TypeError:
+g.SettingGroup is not a constructor
+消息: Uncaught TypeError: g.SettingGroup 不是一个构造函数
+
+
 ## Overview
 
 This plugin enables you to hide certain parts of the Obsidian UI. Note that your CSS theme may override Hider.
@@ -29,4 +35,5 @@ Hider injects the following classes on the `body` element when features are togg
 | Tooltips | `.hider-tooltips` |
 | Instructions | `.hider-instructions` |
 | Metadata | `.hider-meta` |
+
 
